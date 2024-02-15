@@ -9,6 +9,12 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+```php
+<?php
+echo 'me';
+?>
+```
+
 - [ ] List syntax is required
 - [ ] This item is complete
 - [ ] This item is not complete
