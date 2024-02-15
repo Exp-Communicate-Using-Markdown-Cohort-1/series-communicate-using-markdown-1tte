@@ -18,6 +18,5 @@ echo 'me';
 - [ ] List syntax is required
 - [ ] This item is complete
 - [ ] This item is not complete
-- [ ] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
